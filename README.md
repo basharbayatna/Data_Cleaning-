@@ -61,13 +61,12 @@ The original dataset used is: [Titanic Dirty Dataset](https://drive.google.com/f
 
 ## Visualization and Key Insights
 
-1. **Count of Survived vs Died Passengers**  
-   <img width="571" height="455" alt="Passengers State" src="https://github.com/user-attachments/assets/ab7b4908-70fb-4323-bc5b-6b803e4870b9" />
+1. **Count of Survived vs Died Passengers by Sex**  
+   <img width="571" height="455" alt="Passengers Status By Sex" src="https://github.com/user-attachments/assets/f8cf1d74-4ca6-46e4-a090-d71338e0ae71" />
 
 
-  Died: 549 passengers
-  Survived: 342 passengers
-  More passengers died than survived on the Titanic.
+  - number of passengers died: 549 passengers
+  - number of passengers Survived: 342 passengers where 250 of them are Females.
 
 2. **Histogram of Age Distribution**
 
@@ -75,25 +74,13 @@ The original dataset used is: [Titanic Dirty Dataset](https://drive.google.com/f
 
    Majority of passengers were between 20–40 years old.
    177 passengers had missing Age values (filled with -1).
-3. **Boxplot of Fare**
-    <img width="520" height="455" alt="BoxPlot of the Fare" src="https://github.com/user-attachments/assets/172ff1bf-2ccd-495b-8594-48b0046428d3" />
+   
+4. **Heatmap**
+    <img width="838" height="528" alt="Correlation heatmap" src="https://github.com/user-attachments/assets/899b6a6b-5c04-4b53-ab72-c56bfca4d755" />
 
-   Fare ranged from $0 to $512.33.
-   Median fare is around $14.45.
-   Presence of outliers shows some passengers paid very high fares.
+    -The Fare has The Highest Positive Correlation to the Survived Column
 
-4. **Passengers by Sex**
-
-   Male: 574 passengers
-   Female: 317 passengers
-
-5. **Embarked Locations**
-
-  - S: 644 passengers
-  - C: 168 passengers
-  - Q: 77 passengers
-  - Missing: 2 passengers
-
+   
 
 ## Tools Used
 

@@ -98,7 +98,7 @@ The original dataset used is: [Titanic Dirty Dataset](https://drive.google.com/f
 
 ## Author
 
-  Bashar Bayatna
+Bashar Bayatna
 - Basharbayatna11@gmail.com
 
    

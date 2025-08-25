@@ -67,19 +67,19 @@ The original dataset used is: [Titanic Dirty Dataset](https://drive.google.com/f
 
 5. **Embarked Locations**
 
-   S: 644 passengers
-   C: 168 passengers
-   Q: 77 passengers
-   Missing: 2 passengers
+  - S: 644 passengers
+  - C: 168 passengers
+  - Q: 77 passengers
+  - Missing: 2 passengers
 
 
 ## Tools Used
 
--Python 3
--Pandas
--NumPy
--Seaborn & Matplotlib
--Missingno for visualizing missing values
+- Python 3
+- Pandas
+- NumPy
+- Seaborn & Matplotlib
+- Missingno for visualizing missing values
 
 ## Outcome
 The cleaned dataset is ready for analysis.

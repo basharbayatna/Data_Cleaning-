@@ -6,6 +6,23 @@ This repository contains a notebook for cleaning and preparing the Titanic datas
 
 The original dataset used is: [Titanic Dirty Dataset](https://drive.google.com/file/d/1-7mcBguuzAV7JWVu2XCpgAO-fO6X2cl0/view?usp=sharing).
 
+**Basic Dataset Information:**
+
+- **Rows:** 891  
+- **Columns:** 12  
+- **Features include:** `PassengerId`, `Survived`, `Pclass`, `Sex`, `Age`, `Siblings or Spouses`, `Parents or Children`, `Fare`, `Embarked`, etc.
+
+**Sample Data:**
+
+| PassengerId | Survived | Pclass | Sex    | Age  | Siblings or Spouses | Parents or Children | Fare  | Embarked |
+|------------:|---------:|-------:|--------|-----:|------------------:|------------------:|------:|---------|
+| 1           | 0        | 3      | male   | 22.0 | 1                 | 0                 | 7.25  | S        |
+| 2           | 1        | 1      | female | 38.0 | 1                 | 0                 | 71.28 | C        |
+| 3           | 1        | 3      | female | 26.0 | 0                 | 0                 | 7.93  | S        |
+| 4           | 1        | 1      | female | 35.0 | 1                 | 0                 | 53.10 | S        |
+| 5           | 0        | 3      | male   | 35.0 | 0                 | 0                 | 8.05  | S        |
+
+
 ## What I Did
 
 1. **Loaded the Data**  
@@ -82,11 +99,12 @@ The original dataset used is: [Titanic Dirty Dataset](https://drive.google.com/f
 - Missingno for visualizing missing values
 
 ## Outcome
-The cleaned dataset is ready for analysis.
-All numeric and object columns have no missing values except placeholder -1 for Age.
-Categorical values are consistent.
-Univariate visualizations provide clear insights into distributions and outliers.
 
+- The cleaned dataset is ready for analysis.  
+- All numeric and object columns have no missing values except placeholder `-1` for `Age`.  
+- Categorical values are consistent.  
+- Univariate visualizations provide clear insights into distributions and outliers.  
+- Critical visualizations helped understand passenger survival, demographics, and fare trends.
 
 ## Author
 

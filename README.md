@@ -1,6 +1,7 @@
 # Titanic Data Cleaning Project
 
-This repository contains a notebook for cleaning and preparing the Titanic dataset for analysis.
+This repository contains a notebook for cleaning and preparing the Titanic dataset for analysis. It also includes basic dataset exploration and critical visualizations to understand passenger demographics, survival, and fare patterns.
+
 
 ## Dataset
 

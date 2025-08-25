@@ -51,8 +51,12 @@ The original dataset used is: [Titanic Dirty Dataset](https://drive.google.com/f
 7. **Ensured Consistency**  
    - Corrected inconsistent values: `Sex` (F → female) and `Embarked` (Queenstown → Q).  
 
-8. **Saved Cleaned Dataset**  
+8. **Saved Cleaned Dataset**
    - Exported the cleaned DataFrame to a CSV for future analysis.
+
+9. **Univariate Plots and Critical Visualizations**  
+
+     
 
 ## Univariate Plots and Key Insights
 

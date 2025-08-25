@@ -52,10 +52,8 @@ The original dataset used is: [Titanic Dirty Dataset](https://drive.google.com/f
 7. **Ensured Consistency**  
    - Corrected inconsistent values: `Sex` (F → female) and `Embarked` (Queenstown → Q).  
 
-8. **Saved Cleaned Dataset**
-   - Exported the cleaned DataFrame to a CSV for future analysis.
 
-9. **Univariate Plots and Multivariate Plots**  
+8. **Univariate Plots and Multivariate Plots**  
 
      
 
@@ -72,13 +70,13 @@ The original dataset used is: [Titanic Dirty Dataset](https://drive.google.com/f
 
     <img width="571" height="455" alt="Age Distribution" src="https://github.com/user-attachments/assets/cdbfd549-b02b-4dbb-b384-546038643bb2" />
 
-   Majority of passengers were between 20–40 years old.
+ - Majority of passengers were between 20–40 years old.
    177 passengers had missing Age values (filled with -1).
    
 4. **Heatmap**
     <img width="838" height="528" alt="Correlation heatmap" src="https://github.com/user-attachments/assets/899b6a6b-5c04-4b53-ab72-c56bfca4d755" />
 
-    -The Fare has The Highest Positive Correlation to the Survived Column
+    - The Fare has The Highest Positive Correlation to the Survived Column
 
    
 

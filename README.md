@@ -96,10 +96,10 @@ The original dataset used is: [Titanic Dirty Dataset](https://drive.google.com/f
 - Univariate visualizations provide clear insights into distributions and outliers.  
 - Critical visualizations helped understand passenger survival, demographics, and fare trends.
 
-## Author
-
-Bashar Bayatna
-- Basharbayatna11@gmail.com
+##  Information 
+ For any Questions or Recommendations:
+  - Bashar Bayatna (Mechatronics Engineer|Junior Data Scientist)
+  - Basharbayatna11@gmail.com
 
    
    

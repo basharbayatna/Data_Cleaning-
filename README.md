@@ -63,8 +63,8 @@ The original dataset used is: [Titanic Dirty Dataset](https://drive.google.com/f
    <img width="571" height="455" alt="Passengers Status By Sex" src="https://github.com/user-attachments/assets/f8cf1d74-4ca6-46e4-a090-d71338e0ae71" />
 
 
-  - number of passengers died: 549 passengers
-  - number of passengers Survived: 342 passengers where 250 of them are Females.
+  - Number of passengers died: 549 passengers
+  - Number of passengers Survived: 342 passengers where 250 of them are Females.
 
 2. **Histogram of Age Distribution**
 
@@ -99,6 +99,7 @@ The original dataset used is: [Titanic Dirty Dataset](https://drive.google.com/f
 ## Author
 
 Bashar Bayatna
+Basharbayatna11@gmail.com
 
    
    

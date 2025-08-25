@@ -45,7 +45,7 @@ The original dataset used is: [Titanic Dirty Dataset](https://drive.google.com/f
 
   Died: 549 passengers
   Survived: 342 passengers
-  Insight: More passengers died than survived on the Titanic.
+  More passengers died than survived on the Titanic.
 
 2. **Histogram of Age Distribution**
 
@@ -75,11 +75,11 @@ The original dataset used is: [Titanic Dirty Dataset](https://drive.google.com/f
 
 ## Tools Used
 
-Python 3
-Pandas
-NumPy
-Seaborn & Matplotlib
-Missingno for visualizing missing values
+-Python 3
+-Pandas
+-NumPy
+-Seaborn & Matplotlib
+-Missingno for visualizing missing values
 
 ## Outcome
 The cleaned dataset is ready for analysis.

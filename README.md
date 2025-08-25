@@ -37,17 +37,60 @@ The original dataset used is: [Titanic Dirty Dataset](https://drive.google.com/f
 8. **Saved Cleaned Dataset**  
    - Exported the cleaned DataFrame to a CSV for future analysis.
 
+## Univariate Plots and Key Insights
+
+1. **Count of Survived vs Died Passengers**  
+   <img width="571" height="455" alt="Passengers State" src="https://github.com/user-attachments/assets/ab7b4908-70fb-4323-bc5b-6b803e4870b9" />
+
+
+  Died: 549 passengers
+  Survived: 342 passengers
+  Insight: More passengers died than survived on the Titanic.
+
+2. **Histogram of Age Distribution**
+
+    <img width="571" height="455" alt="Age Distribution" src="https://github.com/user-attachments/assets/cdbfd549-b02b-4dbb-b384-546038643bb2" />
+
+   Majority of passengers were between 20–40 years old.
+   177 passengers had missing Age values (filled with -1).
+3. **Boxplot of Fare**
+    <img width="520" height="455" alt="BoxPlot of the Fare" src="https://github.com/user-attachments/assets/172ff1bf-2ccd-495b-8594-48b0046428d3" />
+
+   Fare ranged from $0 to $512.33.
+   Median fare is around $14.45.
+   Presence of outliers shows some passengers paid very high fares.
+
+4. **Passengers by Sex**
+
+   Male: 574 passengers
+   Female: 317 passengers
+
+5. **Embarked Locations**
+
+   S: 644 passengers
+   C: 168 passengers
+   Q: 77 passengers
+   Missing: 2 passengers
+
+
 ## Tools Used
 
-- Python 3  
-- Pandas  
-- NumPy  
-- Missingno for visualizing missing values  
+Python 3
+Pandas
+NumPy
+Seaborn & Matplotlib
+Missingno for visualizing missing values
 
 ## Outcome
+The cleaned dataset is ready for analysis.
+All numeric and object columns have no missing values except placeholder -1 for Age.
+Categorical values are consistent.
+Univariate visualizations provide clear insights into distributions and outliers.
 
-The cleaned dataset is ready for analysis with no missing values in numeric/object columns (except placeholders) and consistent categorical values.
 
 ## Author
 
-- Bashar Bayatna
+Bashar Bayatna
+
+   
+   

@@ -55,11 +55,11 @@ The original dataset used is: [Titanic Dirty Dataset](https://drive.google.com/f
 8. **Saved Cleaned Dataset**
    - Exported the cleaned DataFrame to a CSV for future analysis.
 
-9. **Univariate Plots and Critical Visualizations**  
+9. **Univariate Plots and Multivariate Plots**  
 
      
 
-## Univariate Plots and Key Insights
+## Visualization and Key Insights
 
 1. **Count of Survived vs Died Passengers**  
    <img width="571" height="455" alt="Passengers State" src="https://github.com/user-attachments/assets/ab7b4908-70fb-4323-bc5b-6b803e4870b9" />
